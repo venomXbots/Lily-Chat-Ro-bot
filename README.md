@@ -3,7 +3,7 @@ Best Smart Artificial intelligence Chat bot For Telegram Groups
 Click Below Picture To Open VChat Bot Owner Id...
 
 
-<p align="center"><a href="https://t.me/its_arryan"><img src="https://telegra.ph/file/48af9d58eee079b15c18c.jpg"></a></p>
+<p align="center"><a href="https://telegram.me/its_arryan"><img src="https://telegra.ph/file/48af9d58eee079b15c18c.jpg"></a></p>
 
 
 
@@ -31,15 +31,15 @@ Click Below Picture To Open VChat Bot Owner Id...
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/venom_world_chatting_club)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://telegram.me/venom_world_chatting_club)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/lily_x_bots)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://telegram.me/lily_x_bots)
 
 
 #### 🥺 You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![𝐕𝐄𝐍𝐎𝐌](https://telegra.ph/file/617a7c468f993bb5e567a.mp4)](https://t.me/its_arryan)
+[![𝐕𝐄𝐍𝐎𝐌](https://telegra.ph/file/617a7c468f993bb5e567a.mp4)](https://telegram.me/its_arryan)
 
 
-#### Main Developer = [𝐕𝐄𝐍𝐎𝐌](https://t.me/its_arryan)
+#### Main Developer = [𝐕𝐄𝐍𝐎𝐌](https://telegram.me/its_arryan)
