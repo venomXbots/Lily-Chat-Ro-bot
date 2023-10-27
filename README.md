@@ -9,7 +9,7 @@ Click Below Picture To Open VChat Bot Owner Id...
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/NITISHSHARMA143123/Lily-chat-bot)
+[![Deploy+On+Heroku](https://heroku.com/deploy?template=https://github.com/NITISHSHARMA143123/Lily-chat-bot
 
 
 ## Deploy
