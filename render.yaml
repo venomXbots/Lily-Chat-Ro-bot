@@ -9,19 +9,19 @@ services:
     branch: master
     envVars:
       - key: API_ID
-        sync: true
+        sync: false
       - key: API_HASH
-        sync: true
+        sync: false
       - key: BOT_TOKEN 
-        sync: true
+        sync: false
       - key: OWNER_USERNAME
-        sync: true
+        sync: false
       - key: SUPPORT_GROUP
         sync: false
       - key: UPDATES_CHANNEL
         sync: false
       - key: MONGO_URL
-        sync: true
+        sync: false
       - key: BOT_IMAGE
         sync: false
     autoDeploy: false
