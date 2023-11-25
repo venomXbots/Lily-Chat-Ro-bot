@@ -4,7 +4,7 @@ services:
     name: Lily
     env: python
     buildCommand: pip install -U -r requirements.txt
-    startCommand: python3 server.py & python3 -m Zaid
+    startCommand: python3 server.py & python3 -m Bikash.py
     repo: https://github.com/NITISHSHARMA143123/Lily-chat-bot      
     branch: master
     envVars:
