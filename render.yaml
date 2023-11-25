@@ -6,7 +6,7 @@ services:
     buildCommand: pip install -U -r Installer
     startCommand: python3 -m Bikash.py
     repo: https://github.com/NITISHSHARMA143123/Lily-chat-bot      
-    branch: master
+    branch: main
     envVars:
       - key: API_ID
         sync: false
