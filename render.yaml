@@ -8,14 +8,20 @@ services:
     repo: https://github.com/NITISHSHARMA143123/Lily-chat-bot      
     branch: master
     envVars:
-      - key: 
-        sync: false
+      - key: API_ID
+        sync: true
+      - key: API_HASH
+        sync: true
       - key: BOT_TOKEN 
-        sync: false
+        sync: true
       - key: OWNER_USERNAME
+        sync: true
+      - key: SUPPORT_GROUP
         sync: false
-      - key: 
+      - key: UPDATES_CHANNEL
         sync: false
       - key: MONGO_URL
-        sync: false    
+        sync: true
+      - key: BOT_IMAGE
+        sync: false
     autoDeploy: false
