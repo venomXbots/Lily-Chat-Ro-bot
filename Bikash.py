@@ -19,7 +19,7 @@ UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "none")
 
 
 bot = Client(
-    "V_Chat_Bot" ,
+    "Lily_Chat_Bot" ,
     api_id = API_ID,
     api_hash = API_HASH ,
     bot_token = BOT_TOKEN
@@ -42,12 +42,13 @@ async def start_(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 ✨ʜᴇʏ ɪ'ᴍ ʟɪʟʏ🥀.\n\n⚡ ᴀᴅᴠᴀɴᴄᴇᴅ ᴄʜᴀᴛ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ. \n\n💫 ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡsᴏᴍᴇ ғᴇᴀᴛᴜʀᴇs ❣️\n\n /chatbot - [on|off] ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴜsᴇ ᴏɴʟʏ ɪɴ ɢʀᴏᴜᴘ
 
-┏━━━━━━━━━━━━━━━━━┓
-┣❥︎ ♕︎ᴏᴡɴᴇʀ♕︎  » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/{OWNER_USERNAME})
-┣❥︎ ᴄʜᴀɴɴᴇʟ ➪ » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/{UPDATES_CHANNEL})
-┣❥︎ ɢʀᴏᴜᴘ  ➪ » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/{SUPPORT_GROUP})
-┣❥︎ ᴄʀᴇᴀᴛᴏʀ ➪ » [💫𝐕𝐄𝐍𝐎𝐌💀](https://t.me/its_arryan)
-┗━━━━━━━━━━━━━━━━━┛
+┏◆━━━━━━━━━━━━━━━━━━⧫┓
+┣❥︎• ♕︎ᴏᴡɴᴇʀ♕︎  » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/{OWNER_USERNAME})
+┣❥︎• ᴄʜᴀɴɴᴇʟ ➪ » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/{UPDATES_CHANNEL})
+┣❥︎• ɢʀᴏᴜᴘ  ➪ » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/{SUPPORT_GROUP})
+┣❥︎• ᴄʀᴇᴀᴛᴏʀ ➪ » [𝙰𝚁𝚈𝙰𝙽](https://t.me/its_your_aryan)
+┣❥︎• sᴇᴄᴜʀᴇ-ᴄᴏᴅᴇ ➪ » [ᴄʟɪᴄᴋ✨ʜᴇʀᴇ](https://t.me/Its_Your_Aryan)
+┗◆━━━━━━━━━━━━━━━━━━⧫┛
 
 💞 ᴀᴅᴅ ᴍᴇ » ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ
 ᴇɴᴊᴏʏ sᴜᴘᴇʀ ǫᴜᴀʟɪᴛʏ ❥︎ᴄʜᴀᴛ.
@@ -73,7 +74,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " 🍁ᴊᴏɪɴ ᴄʜᴀᴛ ɢʀᴏᴜᴘ💞", url=f"https://t.me/venom_World_chatting_club")
+                        " 🍁ᴊᴏɪɴ ᴄʜᴀᴛ ɢʀᴏᴜᴘ💞", url=f"https://t.me/The_Ghost_iisland")
                 ]
             ]
         ),
