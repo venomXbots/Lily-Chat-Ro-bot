@@ -41,4 +41,4 @@ Click Below Picture To Open Lily chatBot Owner Id...
 
 
 #### Main Developer =
-[𝐕𝐄𝐍𝐎𝐌](https://img.shields.io/badge/main-Developer-redgreen)](https://telegram.me/its_arryan)
+[![Developer](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://telegram.me/Its_Your_Aryan) 
