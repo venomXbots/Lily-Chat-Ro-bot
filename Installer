@@ -2,4 +2,4 @@ pyrogram==1.4.16
 pymongo
 requests
 dnspython
-tgcrypto==1.2.2
+tgcrypto==1.2.
