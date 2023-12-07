@@ -1,16 +1,13 @@
 ## About This Repository 
 Best Smart Artificial intelligence Chat bot For Telegram Groups 
-Click Below Picture To Open VChat Bot Owner Id...
+Click Below Picture To Open Lily chatBot Owner Id...
 
 
 <p align="center"><a href="https://telegram.me/its_arryan"><img src="https://telegra.ph/file/48af9d58eee079b15c18c.jpg"></a></p>
 
 ## HEROKU
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/NITISHSHARMA143123/Lily-chat-bot"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
-
-## Render
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/NITISHSHARMA143123/Lily-chat-bot) 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/venomXbots/Lily-Chat-Ro-bot"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
 
 ## Deploy
@@ -43,4 +40,5 @@ Click Below Picture To Open VChat Bot Owner Id...
 [![𝐕𝐄𝐍𝐎𝐌](https://telegra.ph/file/617a7c468f993bb5e567a.mp4)](https://telegram.me/its_arryan)
 
 
-#### Main Developer = [𝐕𝐄𝐍𝐎𝐌](https://telegram.me/its_arryan)
+#### Main Developer =
+[𝐕𝐄𝐍𝐎𝐌](https://img.shields.io/badge/main-Developer-redgreen)](https://telegram.me/its_arryan)
